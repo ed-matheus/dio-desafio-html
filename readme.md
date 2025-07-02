@@ -20,42 +20,20 @@ Neste projeto, foram aplicadas as seguintes tags HTML para estruturar o conteúd
 * **Novas Tags Exploradas (conforme o desafio):**
     * `<del>`: Usada para indicar texto que foi deletado ou está incorreto.
     * `<abbr>`: Para abreviações, com o significado completo fornecido no atributo `title`.
-    * `<font>`: Utilizada para fins de demonstração, como uma tag histórica/obsoleta para estilização, com a ressalva de que o CSS é a forma moderna e correta de estilizar.
     * `<sup>`: Para texto sobrescrito (ex: 180°C).
 
 ## 🚀 Como Visualizar o Projeto
 
 Para ver este projeto, basta abrir o arquivo `index.html` (ou o nome do seu arquivo HTML) diretamente no seu navegador web. Não há necessidade de servidores ou configurações adicionais, pois não há CSS ou JavaScript.
 
-1.  Clone este repositório para sua máquina local ou faça o download do arquivo ZIP.
-2.  Navegue até a pasta do projeto.
-3.  Abra o arquivo `index.html` (ou `receita.html`, se for o nome que você usou) em qualquer navegador (Chrome, Firefox, Edge, etc.).
-
 ## 📚 Aulas e Referências
 
-* **Bootcamp:** [Nome completo do Bootcamp da DIO.me] - (Link para o Bootcamp, se tiver)
+* **Bootcamp:** Bootcamp Santander 2025 - Front-end - https://web.dio.me/track/santander-2025-front-end
 * **DIO.me:** [https://www.dio.me/](https://www.dio.me/)
 * **Receita original:** [https://www.tudogostoso.com.br/receita/23-bolo-de-cenoura.html](https://www.tudogostoso.com.br/receita/23-bolo-de-cenoura.html)
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Se você tiver sugestões para melhorar o código HTML ou a estrutura, por favor, abra uma issue ou envie um pull request.
 
 ## 📧 Contato
 
 * **Edson Matheus**
-* [Seu LinkedIn - Link para o seu perfil do LinkedIn]
-* [Seu Portfólio - Link para seu portfólio online, se tiver]
-* [Seu E-mail - seu.email@exemplo.com]
-
----
-
-**Observações para você antes de usar:**
-
-1.  **Nome do Bootcamp:** Substitua `[Nome completo do Bootcamp da DIO.me]` pelo nome exato do bootcamp que você está fazendo.
-2.  **Link do Bootcamp:** Se tiver um link direto para a página do bootcamp na DIO.me, adicione-o.
-3.  **Nome do Arquivo HTML:** Certifique-se de que o nome do arquivo HTML no `README` (`index.html`) corresponde ao nome real do seu arquivo.
-4.  **Seus Links:** Preencha seus próprios links de LinkedIn, portfólio e e-mail na seção "Contato".
-5.  **Tag `<img>`:** No seu código, você não incluiu a tag `<img>` no `header`. Se você quiser praticá-la, adicione a linha `<img src="caminho/para/sua/imagem-do-prato.jpg" alt="Foto do bolo de cenoura pronto">` (e coloque uma imagem na pasta do projeto) para que ela seja visível na sua página. O README já menciona que ela foi considerada para prática.
-
-Este `README.md` fornecerá uma visão clara do seu projeto e das habilidades que você demonstrou. Boa sorte no desafio!
+* [LinkedIn](https://www.linkedin.com/in/edson-matheus-b5a0171ba/)
+* [Portfólio](https://ed-matheus-portfolio.vercel.app/)
